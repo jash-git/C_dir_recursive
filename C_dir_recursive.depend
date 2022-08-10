@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1660120265 source:c:\users\devel\desktop\c_dir_recursive\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<dirent.h>
+
